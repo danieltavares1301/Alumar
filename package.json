@@ -9,10 +9,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "--legacy-peer-deps": "^0.0.1-security.6",
+    "@react-three/drei": "^9.57.1",
+    "@react-three/fiber": "^8.11.10",
     "expo": "~48.0.5",
+    "expo-gl": "^12.4.0",
     "expo-status-bar": "~1.4.4",
+    "expo-three": "^7.0.0",
     "react": "18.2.0",
-    "react-native": "0.71.3"
+    "react-native": "0.71.3",
+    "three": "^0.150.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
